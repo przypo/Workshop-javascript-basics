@@ -1,5 +1,8 @@
 # workshop-javascript-basics
-# Workshop-javascript-basics
-# Workshop-javascript-basics
-# Workshop-javascript-basics
-# Workshop-javascript-basics
+
+## Demo 
+
+## Projects
+* [clock](./clock)
+* [counter](./counter)
+* [printer](./printer/)
