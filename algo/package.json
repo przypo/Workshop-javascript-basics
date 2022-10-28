@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node scripts/unique-array.js"
+    "start": "node scripts/random-name.js"
   },
   "author": "",
   "license": "ISC"
 }
+``

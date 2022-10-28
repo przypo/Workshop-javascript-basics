@@ -11,3 +11,8 @@
 * This argument will be a long list of words in one string
 * Function will display a shortest word
 * INFO: Word means letters without space
+
+## Christmas tree
+
+* Function which draws a christmas tree
+* The higher the number, the higher the tree and the 
